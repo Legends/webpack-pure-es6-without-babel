@@ -3,7 +3,6 @@ export default {
   output: {
     filename: `js/[name].js`,
     chunkFilename: `js/[id]-chunk.js`,
-    path: __dirname + '/dist',
-    libraryTarget: "umd"
+    path: __dirname + '/dist'
   }, 
 };
