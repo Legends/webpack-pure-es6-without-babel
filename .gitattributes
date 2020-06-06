@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 * text=auto
 bin/* eol=lf
 yarn.lock -diff
 package-lock.json -diff
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> 360d2e199d8f8b72800db4f3a555c9c0ebd0e3c7
