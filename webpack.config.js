@@ -3,7 +3,7 @@ export default {
   mode: "development",
   output: {
     filename: `js/[name].js`,
-    chunkFilename: `js/[id]-chunk.js`,
+    chunkFilename: `[id]-chunk.js`,
     path: __dirname + '/dist'
   },
 };
